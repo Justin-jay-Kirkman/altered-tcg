@@ -4,6 +4,8 @@ import os
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
+PROJECT_PATH = os.path.abspath(os.path.dirname(__name__))
+
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/
 
@@ -72,6 +74,17 @@ DATABASES = {
         'PORT': os.environ.get("DB_PORT"),
     }
 }
+
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql_psycopg2',
+#         'NAME': "spotter_videos",
+#         'USER': "admin",
+#         'PASSWORD': "54321%12345",
+#         'HOST': "127.0.0.1",
+#         'PORT': "5432",
+#     }
+# }
 
 
 
