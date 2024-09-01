@@ -4,10 +4,7 @@ from datetime import datetime
 
 
 def get_simulated_videos_by_channel(channel_id):
-    #windows
-    json_file_path = os.path.join(os.path.dirname(__file__)) + "\\data\\videos.json"
-    #linux
-    #json_file_path = os.path.join(os.path.dirname(__file__)) + "/data/videos.json"
+    json_file_path = os.path.join(os.path.dirname(__file__)) + "/data/videos.json"
     with open(json_file_path, 'r') as file:
         data = json.loads(file.read())
     for channel in data:
