@@ -1,7 +1,7 @@
 import os
 
 from django.test import TestCase
-from spotter_app.sim_youtube_videos import get_simulated_videos_by_channel
+from cards.sim_youtube_videos import get_simulated_videos_by_channel
 
 
 # Create your tests here.

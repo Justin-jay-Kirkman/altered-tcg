@@ -2,7 +2,7 @@ services:
   postgres_db:
     image: postgres
     volumes:
-      - ./spotter/postgres_data:/var/lib/postgresql/data
+      - ./altered/postgres_data:/var/lib/postgresql/data
     env_file:
       - .env
     environment:
@@ -11,17 +11,17 @@ services:
       - POSTGRES_PASSWORD=${DB_PASSWORD}
     ports:
       - "5432:5432"
-    container_name: spotter-postgres-container
+    container_name: altered-postgres-container
   web:
-    build: spotter
-    container_name: spotter-container
+    build: altered
+    container_name: altered-container
     ports:
       - "8000:8000"
     command: [ "bash", "./django.sh" ]
     env_file:
       - .env
     volumes:
-      - ./spotter:/usr/src/app
+      - ./altered:/usr/src/app
     depends_on:
       - postgres_db
 volumes:
