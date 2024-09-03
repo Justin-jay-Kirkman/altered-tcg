@@ -13,7 +13,7 @@ PROJECT_PATH = os.path.abspath(os.path.dirname(__name__))
 # See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = os.environ.get("SECRET_KEY")
+SECRET_KEY = "django-insecure-&s5e(=0l25ry%2k*ub5tjbc=8(eeaqh0w2r$=cqxv=lhgn3i7z"
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -75,7 +75,8 @@ DATABASES = {
         'USER': "admin",
         'PASSWORD': "54321%12345",
         'HOST': "127.0.0.1",
-        'PORT': os.environ.get("DB_PORT"),
+        'PORT': "5432",
+        'DISABLE_SERVER_SIDE_CURSORS': True,
     }
 }
 

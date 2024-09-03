@@ -1,0 +1,44 @@
+{
+  "HERO": {
+    "en": "Hero",
+    "fr": "Héros",
+    "es": "Héroe de",
+    "it": "Eroe",
+    "de": "Held"
+  },
+  "CHARACTER": {
+    "en": "Character",
+    "fr": "Personnage",
+    "es": "Personaje",
+    "it": "Personaggio",
+    "de": "Charakter"
+  },
+  "SPELL": {
+    "en": "Spell",
+    "fr": "Sort",
+    "es": "Hechizo",
+    "it": "Incantesimo",
+    "de": "Zauber"
+  },
+  "PERMANENT": {
+    "en": "Permanent",
+    "fr": "Permanent",
+    "es": "Permanente",
+    "it": "Permanente",
+    "de": "Bleibende Karte"
+  },
+  "TOKEN": {
+    "en": "Token Character",
+    "fr": "Jeton Personnage",
+    "es": "Ficha de personaje",
+    "it": "Pedina Personaggio",
+    "de": "Marken-Charakter"
+  },
+  "TOKEN_MANA": {
+    "en": "Mana",
+    "fr": "Mana",
+    "es": "Maná",
+    "it": "Mana",
+    "de": "Mana"
+  }
+}

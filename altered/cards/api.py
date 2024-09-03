@@ -4,26 +4,38 @@ from types import SimpleNamespace
 
 from ninja import NinjaAPI
 from .models import Card
-from .schemas import Error
-from .sim_youtube_videos import get_simulated_videos_by_channel
+from .schemas import CardSchema, Error
+from .get_cards_from_json import get_cards_from_json, get_all_cards_from_json
 
 api = NinjaAPI(title='Altered-TCG API', version='0.1')
 
 
+@api.get('/get_card/{id}', response={200: CardSchema, 404: Error}, tags=["Card"])
+def get_card(request, id: str):
+    card = Card.objects.filter(id=id).first()
+    if card is None:
+        card_api = get_cards_from_json(id)
+        if card_api is None:
+            return 404, {'message': 'Channel not found'}
+        else:
+            kwargs = _init_kwargs(Card, card_api)
+            card = Card.objects.create(**kwargs)
+            card.save()
+            results = card
+    else:
+        card_query_set = Card.objects.filter(id=id)
+        results = card_query_set.values()
+    return 200, results
 
-# @api.get('/videos-by-channel/{channel_id}', response={200: list[VideoSchema], 404: Error}, tags=["Channel"])
-# def get_most_recent_videos(request, channel_id: str):
-#     channel = Channel.objects.filter(channel_id=channel_id).first()
-#     result_limit = 5
-#     if channel is None:
-#         youtube_api = get_simulated_videos_by_channel(channel_id)
-#         if youtube_api is None:
-#             return 404, {'message': 'Channel not found'}
-#         else:
-#             channel = Channel.objects.update_or_create(channel_id=channel_id)[0]
-#             channel.add_videos(youtube_api)
-#             results = youtube_api[:result_limit]
-#     else:
-#         video_query_set = Card.objects.filter(channel=channel_id).order_by('-upload_date')[:result_limit]
-#         results = video_query_set.values()
-#     return 200, results
+# This can be created as a task in celery if needed in prod
+@api.get('/bulk_card_upload', response={200: list[CardSchema], 404: Error}, tags=["Card"])
+def bulk_card_upload(request):
+    cards = get_all_cards_from_json()
+    card_models = [Card(**_init_kwargs(Card, cards[card])) for card in cards]
+    card_models = Card.objects.bulk_create(objs=card_models, ignore_conflicts=True)
+    return 200, card_models
+
+
+def _init_kwargs(model, arg_dict):
+    model_fields = [f.name for f in model._meta.get_fields()]
+    return {k: v for k, v in arg_dict.items() if k in model_fields}

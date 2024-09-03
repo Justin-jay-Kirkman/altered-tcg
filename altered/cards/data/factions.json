@@ -1,0 +1,51 @@
+{
+  "AX": {
+    "en": "Axiom",
+    "fr": "Axiom",
+    "es": "Axiom",
+    "it": "Axiom",
+    "de": "Axiom"
+  },
+  "BR": {
+    "en": "Bravos",
+    "fr": "Bravos",
+    "es": "Bravos",
+    "it": "Bravos",
+    "de": "Bravos"
+  },
+  "LY": {
+    "en": "Lyra",
+    "fr": "Lyra",
+    "es": "Lyra",
+    "it": "Lyra",
+    "de": "Lyra"
+  },
+  "MU": {
+    "en": "Muna",
+    "fr": "Muna",
+    "es": "Muna",
+    "it": "Muna",
+    "de": "Muna"
+  },
+  "OR": {
+    "en": "Ordis",
+    "fr": "Ordis",
+    "es": "Ordis",
+    "it": "Ordis",
+    "de": "Ordis"
+  },
+  "YZ": {
+    "en": "Yzmir",
+    "fr": "Yzmir",
+    "es": "Yzmir",
+    "it": "Yzmir",
+    "de": "Yzmir"
+  },
+  "NE": {
+    "en": "Neutral",
+    "fr": "Neutre",
+    "es": "Neutral",
+    "it": "Neutral",
+    "de": "Neutral"
+  }
+}

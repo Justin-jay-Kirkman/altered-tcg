@@ -1,0 +1,16 @@
+{
+  "COMMON": {
+    "en": "Common",
+    "fr": "Commun",
+    "es": "Common",
+    "it": "Common",
+    "de": "Common"
+  },
+  "RARE": {
+    "en": "Rare",
+    "fr": "Rare",
+    "es": "Rare",
+    "it": "Rare",
+    "de": "Rare"
+  }
+}
