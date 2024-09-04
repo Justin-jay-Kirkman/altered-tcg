@@ -3,25 +3,25 @@
 // Tweak the makePrettyJSON_ function to customize what kind of JSON to export.
 
 
-var FORMAT_ONELINE   = 'One-line';
-var FORMAT_MULTILINE = 'Multi-line';
-var FORMAT_PRETTY    = 'Pretty';
+let FORMAT_ONELINE   = 'One-line';
+let FORMAT_MULTILINE = 'Multi-line';
+let FORMAT_PRETTY    = 'Pretty';
 
-var LANGUAGE_JS      = 'JavaScript';
-var LANGUAGE_PYTHON  = 'Python';
+let LANGUAGE_JS      = 'JavaScript';
+let LANGUAGE_PYTHON  = 'Python';
 
-var STRUCTURE_LIST = 'List';
-var STRUCTURE_HASH = 'Hash (keyed by "id" column)';
+let STRUCTURE_LIST = 'List';
+let STRUCTURE_HASH = 'Hash (keyed by "id" column)';
 
 /* Defaults for this particular spreadsheet, change as desired */
-var DEFAULT_FORMAT = FORMAT_PRETTY;
-var DEFAULT_LANGUAGE = LANGUAGE_JS;
-var DEFAULT_STRUCTURE = STRUCTURE_LIST;
+let DEFAULT_FORMAT = FORMAT_PRETTY;
+let DEFAULT_LANGUAGE = LANGUAGE_JS;
+let DEFAULT_STRUCTURE = STRUCTURE_LIST;
 
 
 function onOpen() {
-  var ss = SpreadsheetApp.getActiveSpreadsheet();
-  var menuEntries = [
+  let ss = SpreadsheetApp.getActiveSpreadsheet();
+  let menuEntries = [
     {name: "Export JSON for this sheet", functionName: "exportSheet"},
     {name: "Export JSON for all sheets", functionName: "exportAllSheets"}
   ];
@@ -29,19 +29,19 @@ function onOpen() {
 }
 
 function makeLabel(app, text, id) {
-  var lb = app.createLabel(text);
+  let lb = app.createLabel(text);
   if (id) lb.setId(id);
   return lb;
 }
 
 function makeListBox(app, name, items) {
-  var listBox = app.createListBox().setId(name).setName(name);
+  let listBox = app.createListBox().setId(name).setName(name);
   listBox.setVisibleItemCount(1);
 
-  var cache = CacheService.getPublicCache();
-  var selectedValue = cache.get(name);
+  let cache = CacheService.getPublicCache();
+  let selectedValue = cache.get(name);
   Logger.log(selectedValue);
-  for (var i = 0; i < items.length; i++) {
+  for (let i = 0; i < items.length; i++) {
     listBox.addItem(items[i]);
     if (items[1] == selectedValue) {
       listBox.setSelectedIndex(i);
@@ -51,49 +51,49 @@ function makeListBox(app, name, items) {
 }
 
 function makeButton(app, parent, name, callback) {
-  var button = app.createButton(name);
+  let button = app.createButton(name);
   app.add(button);
-  var handler = app.createServerClickHandler(callback).addCallbackElement(parent);;
+  let handler = app.createServerClickHandler(callback).addCallbackElement(parent);;
   button.addClickHandler(handler);
   return button;
 }
 
 function makeTextBox(app, name) {
-  var textArea    = app.createTextArea().setWidth('100%').setHeight('200px').setId(name).setName(name);
+  let textArea    = app.createTextArea().setWidth('100%').setHeight('200px').setId(name).setName(name);
   return textArea;
 }
 
 function exportAllSheets(e) {
 
-  var ss = SpreadsheetApp.getActiveSpreadsheet();
-  var sheets = ss.getSheets();
-  var sheetsData = {};
-  for (var i = 0; i < sheets.length; i++) {
-    var sheet = sheets[i];
-    var rowsData = getRowsData_(sheet, getExportOptions(e));
-    var sheetName = sheet.getName();
+  let ss = SpreadsheetApp.getActiveSpreadsheet();
+  let sheets = ss.getSheets();
+  let sheetsData = {};
+  for (let i = 0; i < sheets.length; i++) {
+    let sheet = sheets[i];
+    let rowsData = getRowsData_(sheet, getExportOptions(e));
+    let sheetName = sheet.getName();
     sheetsData[sheetName] = rowsData;
   }
-  var json = makeJSON_(sheetsData, getExportOptions(e));
+  let json = makeJSON_(sheetsData, getExportOptions(e));
   displayText_(json);
 }
 
 function exportSheet(e) {
-  var ss = SpreadsheetApp.getActiveSpreadsheet();
-  var sheet = ss.getActiveSheet();
-  var rowsData = getRowsData_(sheet, getExportOptions(e));
-  var json = makeJSON_(rowsData, getExportOptions(e));
+  let ss = SpreadsheetApp.getActiveSpreadsheet();
+  let sheet = ss.getActiveSheet();
+  let rowsData = getRowsData_(sheet, getExportOptions(e));
+  let json = makeJSON_(rowsData, getExportOptions(e));
   displayText_(json);
 }
 
 function getExportOptions(e) {
-  var options = {};
+  let options = {};
 
   options.language = e && e.parameter.language || DEFAULT_LANGUAGE;
   options.format   = e && e.parameter.format || DEFAULT_FORMAT;
   options.structure = e && e.parameter.structure || DEFAULT_STRUCTURE;
 
-  var cache = CacheService.getPublicCache();
+  let cache = CacheService.getPublicCache();
   cache.put('language', options.language);
   cache.put('format',   options.format);
   cache.put('structure',   options.structure);
@@ -103,17 +103,18 @@ function getExportOptions(e) {
 }
 
 function makeJSON_(object, options) {
-  if (options.format == FORMAT_PRETTY) {
-    var jsonString = JSON.stringify(object, null, 4);
-  } else if (options.format == FORMAT_MULTILINE) {
-    var jsonString = Utilities.jsonStringify(object);
+  let jsonString = JSON.stringify(object, null, 4);
+  if (options.format === FORMAT_PRETTY) {
+    // use default
+  } else if (options.format === FORMAT_MULTILINE) {
+    jsonString = Utilities.jsonStringify(object);
     jsonString = jsonString.replace(/},/gi, '},\n');
     jsonString = prettyJSON.replace(/":\[{"/gi, '":\n[{"');
     jsonString = prettyJSON.replace(/}\],/gi, '}],\n');
   } else {
-    var jsonString = Utilities.jsonStringify(object);
+    jsonString = Utilities.jsonStringify(object);
   }
-  if (options.language == LANGUAGE_PYTHON) {
+  if (options.language === LANGUAGE_PYTHON) {
     // add unicode markers
     jsonString = jsonString.replace(/"([a-zA-Z]*)":\s+"/gi, '"$1": u"');
   }
@@ -121,7 +122,7 @@ function makeJSON_(object, options) {
 }
 
 function displayText_(text) {
-  var output = HtmlService.createHtmlOutput("<textarea style='width:100%;' rows='20'>" + text + "</textarea>");
+  let output = HtmlService.createHtmlOutput("<textarea style='width:100%;' rows='20'>" + text + "</textarea>");
   output.setWidth(400)
   output.setHeight(300);
   SpreadsheetApp.getUi()
@@ -130,26 +131,13 @@ function displayText_(text) {
 
 // getRowsData iterates row by row in the input range and returns an array of objects.
 // Each object contains all the data for a given row, indexed by its normalized column name.
-// Arguments:
-//   - sheet: the sheet object that contains the data to be processed
-//   - range: the exact range of cells where the data is stored
-//   - columnHeadersRowIndex: specifies the row number where the column names are stored.
-//       This argument is optional and it defaults to the row immediately above range;
-// Returns an Array of objects.
-function getRowsData_(sheet, options) {
-  var headersRange = sheet.getRange(1, 1, sheet.getFrozenRows(), sheet.getMaxColumns());
-  var headers = headersRange.getValues()[0];
-  var dataRange = sheet.getRange(sheet.getFrozenRows()+1, 1, sheet.getMaxRows(), sheet.getMaxColumns());
-  var objects = getObjects_(dataRange.getValues(), normalizeHeaders_(headers));
-  if (options.structure == STRUCTURE_HASH) {
-    var objectsById = {};
-    objects.forEach(function(object) {
-      objectsById[object.id] = object;
-    });
-    return objectsById;
-  } else {
-    return objects;
-  }
+function getRowsData_(sheet) {
+  let headersRange = sheet.getRange(1, 1, sheet.getFrozenRows(), sheet.getMaxColumns());
+  let headers = headersRange.getValues()[0];
+  let dataRange = sheet.getRange(sheet.getFrozenRows()+1, 1, sheet.getMaxRows(), sheet.getMaxColumns());
+  let objects = getObjects_(dataRange.getValues(), normalizeHeaders_(headers));
+  return objects;
+
 }
 
 // getColumnsData iterates column by column in the input range and returns an array of objects.
@@ -162,8 +150,8 @@ function getRowsData_(sheet, options) {
 // Returns an Array of objects.
 function getColumnsData_(sheet, range, rowHeadersColumnIndex) {
   rowHeadersColumnIndex = rowHeadersColumnIndex || range.getColumnIndex() - 1;
-  var headersTmp = sheet.getRange(range.getRow(), rowHeadersColumnIndex, range.getNumRows(), 1).getValues();
-  var headers = normalizeHeaders_(arrayTranspose_(headersTmp)[0]);
+  let headersTmp = sheet.getRange(range.getRow(), rowHeadersColumnIndex, range.getNumRows(), 1).getValues();
+  let headers = normalizeHeaders_(arrayTranspose_(headersTmp)[0]);
   return getObjects(arrayTranspose_(range.getValues()), headers);
 }
 
@@ -174,12 +162,12 @@ function getColumnsData_(sheet, range, rowHeadersColumnIndex) {
 //   - data: JavaScript 2d array
 //   - keys: Array of Strings that define the property names for the objects to create
 function getObjects_(data, keys) {
-  var objects = [];
-  for (var i = 0; i < data.length; ++i) {
-    var object = {};
-    var hasData = false;
-    for (var j = 0; j < data[i].length; ++j) {
-      var cellData = data[i][j];
+  let objects = [];
+  for (let i = 0; i < data.length; ++i) {
+    let object = {};
+    let hasData = false;
+    for (let j = 0; j < data[i].length; ++j) {
+      let cellData = data[i][j];
       if (isCellEmpty_(cellData)) {
         continue;
       }
@@ -197,9 +185,9 @@ function getObjects_(data, keys) {
 // Arguments:
 //   - headers: Array of Strings to normalize
 function normalizeHeaders_(headers) {
-  var keys = [];
-  for (var i = 0; i < headers.length; ++i) {
-    var key = headers[i];
+  let keys = [];
+  for (let i = 0; i < headers.length; ++i) {
+    let key = headers[i];
     if (key.length > 0) {
       keys.push(key);
     }
@@ -217,18 +205,18 @@ function normalizeHeaders_(headers) {
 //   "Market Cap (millions) -> "marketCapMillions
 //   "1 number at the beginning is ignored" -> "numberAtTheBeginningIsIgnored"
 function normalizeHeader_(header) {
-  var key = "";
-  var upperCase = false;
-  for (var i = 0; i < header.length; ++i) {
-    var letter = header[i];
-    if (letter == " " && key.length > 0) {
+  let key = "";
+  let upperCase = false;
+  for (let i = 0; i < header.length; ++i) {
+    let letter = header[i];
+    if (letter === " " && key.length > 0) {
       upperCase = true;
       continue;
     }
     if (!isAlnum_(letter)) {
       continue;
     }
-    if (key.length == 0 && isDigit_(letter)) {
+    if (key.length === 0 && isDigit_(letter)) {
       continue; // first character must be a letter
     }
     if (upperCase) {
@@ -266,17 +254,17 @@ function isDigit_(char) {
 // Returns a JavaScript 2d Array
 // Example: arrayTranspose([[1,2,3],[4,5,6]]) returns [[1,4],[2,5],[3,6]].
 function arrayTranspose_(data) {
-  if (data.length == 0 || data[0].length == 0) {
+  if (data.length === 0 || data[0].length === 0) {
     return null;
   }
 
-  var ret = [];
-  for (var i = 0; i < data[0].length; ++i) {
+  let ret = [];
+  for (let i = 0; i < data[0].length; ++i) {
     ret.push([]);
   }
 
-  for (var i = 0; i < data.length; ++i) {
-    for (var j = 0; j < data[i].length; ++j) {
+  for (let i = 0; i < data.length; ++i) {
+    for (let j = 0; j < data[i].length; ++j) {
       ret[j][i] = data[i][j];
     }
   }

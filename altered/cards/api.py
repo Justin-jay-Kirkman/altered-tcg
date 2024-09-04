@@ -1,7 +1,3 @@
-import json
-from datetime import datetime
-from types import SimpleNamespace
-
 from ninja import NinjaAPI
 from .models import Card
 from .schemas import CardSchema, Error
@@ -35,6 +31,9 @@ def bulk_card_upload(request):
     card_models = Card.objects.bulk_create(objs=card_models, ignore_conflicts=True)
     return 200, card_models
 
+@api.post('/upload_ratings', response={200: list[CardSchema], 404: Error}, tags=["Card"])
+def upload_ratings(request, ratings:):
+    ratings =
 
 def _init_kwargs(model, arg_dict):
     model_fields = [f.name for f in model._meta.get_fields()]
