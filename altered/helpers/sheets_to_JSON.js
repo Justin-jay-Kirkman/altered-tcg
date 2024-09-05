@@ -20,7 +20,7 @@ let DEFAULT_STRUCTURE = STRUCTURE_LIST;
 
 /* This will add a child JSON Obj at the end of the row */
 const CHILD_JSON_NAME = "ratings";
-const CHILD_JSON_VALUES = ["BTG-001-H-EN", "BTG-003-H-EN", "BTG-002-H-EN"]
+const CHILD_JSON_VALUES = ["ALT_CORE_B_AX_01_C", "ALT_CORE_B_AX_02_C", "ALT_CORE_B_AX_03_C"]
 
 
 function onOpen() {
