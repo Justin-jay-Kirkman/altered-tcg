@@ -43,6 +43,9 @@ class Deck(models.Model):
     updated_at = models.DateTimeField(auto_now=True)
     slug = AutoSlugField(populate_from=['name'])
 
+    def normalized_rating(self):
+        return int((self.rating - 39) / (195-39)*100)
+
     def set_deck_rating(self):
         hero = Card.objects.get(id=self.hero)
         self.rating = 0
@@ -62,6 +65,6 @@ class Deck(models.Model):
                 self.hero = card.id
 
     def __str__(self):
-        return self.name + " | " + str(self.rating)
+        return self.name + " | " + str(self.normalized_rating())
 
 
