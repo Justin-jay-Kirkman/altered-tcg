@@ -1,0 +1,10 @@
+<script type="application/javascript">
+    function br2nl(str) {
+        console.log(str.replace(/<br\s*\/?>/gi, '\n'));
+    }
+
+
+</script>
+
+<textarea id="text-area"></textarea>
+<button onclick='br2nl(document.getElementById("text-area").value)'>Remove br</button>

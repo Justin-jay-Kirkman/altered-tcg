@@ -9,4 +9,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', api.urls),
     path('', views.landing, name='landing'),
+    path('fix_deck/', views.fix_deck, name='fix deck')
 ]

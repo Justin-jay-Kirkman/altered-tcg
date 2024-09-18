@@ -26,5 +26,12 @@ class DeckInputSchema(Schema):
 
     model_config = ConfigDict(strict=False)
 
+
+class DeckOutputSchema(Schema):
+    hero: str = ""
+    deck: str = "",
+    deck_rating: int = 0,
+    normalized_rating: int = 0
+
 class Error(Schema):
     message: str

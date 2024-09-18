@@ -40,6 +40,7 @@ class Deck(models.Model):
     hero = models.CharField(max_length=255)
     cards = models.JSONField(default=list)
     rating = models.IntegerField(default=1)
+    ratings = models.JSONField(default=list)
     updated_at = models.DateTimeField(auto_now=True)
     slug = AutoSlugField(populate_from=['name'])
 
@@ -49,16 +50,30 @@ class Deck(models.Model):
     def set_deck_rating(self):
         hero = Card.objects.get(id=self.hero)
         self.rating = 0
+        self.ratings = []
         for card_json in self.cards:
             try:
                 card = Card.objects.get(id=card_json["id"])
             except Card.DoesNotExist:
                 self.rating += 5
+                self.ratings.append({
+                    "id": card_json["id"],
+                    "qty": card_json["qty"],
+                    "name": "Unique",
+                    "rating": 5
+                })
                 continue
             if card.type != "HERO":
                 Qty = card_json.get("qty")
-                card_ratings = CardRating.objects.filter(card_id=card, hero_id=hero).first()
+                card_ratings = CardRating.objects.filter(card_id=card, hero_id=hero).order_by("-updated_at").first()
                 self.rating += (Qty * card_ratings.rating)
+                self.ratings.append({
+                    "id": card.id,
+                    "qty": card_json["qty"],
+                    "name": card.name["en"],
+                    "rarity": card.rarity,
+                    "rating": card_ratings.rating
+                })
             else:
                 # if hero added in upload, overwrite deck hero
                 hero = card

@@ -494,12 +494,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_2": "Mage",
         "handCost": 3,
         "reserveCost": 2,
@@ -511,11 +511,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_11/JPG/en_US/7cbeb6ba38313060ff58b4dce791bdbc.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -529,12 +529,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_2": "Mage",
         "handCost": 3,
         "reserveCost": 2,
@@ -546,11 +546,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_11/JPG/en_US/b0d469b8532f7fe228e53d6954f7ce91.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -692,12 +692,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 5,
-        "ALT_COREKS_B_OR_03_C": 5,
-        "ALT_CORE_B_OR_03_C": 5,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 5,
+        "ALT_CORE_B_OR_02_C": 5,
+        "ALT_COREKS_B_OR_02_C": 5,
         "subtype_1": "Landmark",
         "handCost": 2,
         "reserveCost": 2,
@@ -706,11 +706,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_24/JPG/en_US/7f9e0de1de4d1cfac7ca4f3bf5f7b4fb.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 5,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 5,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 5,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 5
         }
     },
     {
@@ -724,12 +724,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 5,
-        "ALT_COREKS_B_OR_03_C": 5,
-        "ALT_CORE_B_OR_03_C": 5,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 5,
+        "ALT_CORE_B_OR_02_C": 5,
+        "ALT_COREKS_B_OR_02_C": 5,
         "subtype_1": "Landmark",
         "handCost": 2,
         "reserveCost": 2,
@@ -738,11 +738,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_24/JPG/en_US/dfeb000f850c71d76e9c74bd2abe0fce.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 5,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 5,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 5,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 5
         }
     },
     {
@@ -756,12 +756,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 5,
-        "ALT_CORE_B_OR_02_C": 5,
-        "ALT_COREKS_B_OR_02_C": 5,
+        "Gulrang & Tocsin": 5,
+        "ALT_COREKS_B_OR_03_C": 5,
+        "ALT_CORE_B_OR_03_C": 5,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Landmark",
         "handCost": "#2#",
         "reserveCost": "#2#",
@@ -770,11 +770,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_24/JPG/en_US/04b9b169b495eeeffdb5a4c918dfa3d9.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 5,
+            "ALT_COREKS_B_OR_03_C": 5,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 5
+            "ALT_CORE_B_OR_03_C": 5,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -788,12 +788,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 5,
-        "ALT_CORE_B_OR_02_C": 5,
-        "ALT_COREKS_B_OR_02_C": 5,
+        "Gulrang & Tocsin": 5,
+        "ALT_COREKS_B_OR_03_C": 5,
+        "ALT_CORE_B_OR_03_C": 5,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Landmark",
         "handCost": "#2#",
         "reserveCost": "#2#",
@@ -802,11 +802,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_24/JPG/en_US/b18c9b24d118487500ee6d6024e5043d.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 5,
+            "ALT_COREKS_B_OR_03_C": 5,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 5
+            "ALT_CORE_B_OR_03_C": 5,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -820,12 +820,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Maneuver",
         "handCost": 5,
         "reserveCost": 5,
@@ -834,11 +834,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_27/JPG/en_US/5fc16822dd58315180cc00324c6a6ca3.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -852,12 +852,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Maneuver",
         "handCost": 5,
         "reserveCost": 5,
@@ -866,11 +866,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_27/JPG/en_US/ab69e99bff1201da1dde2ed080bedc24.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -1012,12 +1012,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_1": "Maneuver",
         "handCost": 2,
         "reserveCost": 2,
@@ -1026,11 +1026,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_23/JPG/en_US/eb0e8b22b0310c2d3313a7c4d186c689.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -1044,12 +1044,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_1": "Maneuver",
         "handCost": 2,
         "reserveCost": 2,
@@ -1058,11 +1058,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_23/JPG/en_US/7e539b495ef072557f719339c71909e5.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -1076,12 +1076,12 @@
         "Sigismar & Wingspan": 5,
         "ALT_COREKS_B_OR_01_C": 5,
         "ALT_CORE_B_OR_01_C": 5,
-        "Gulrang & Tocsin": 5,
-        "ALT_COREKS_B_OR_03_C": 5,
-        "ALT_CORE_B_OR_03_C": 5,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 5,
+        "ALT_CORE_B_OR_02_C": 5,
+        "ALT_COREKS_B_OR_02_C": 5,
         "subtype_1": "Maneuver",
         "handCost": 2,
         "reserveCost": "#3#",
@@ -1090,11 +1090,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_23/JPG/en_US/ad21f5750f19baa4bb05e2fc41d7a6cb.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 5,
-            "ALT_COREKS_B_OR_03_C": 5,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 5,
             "ALT_CORE_B_OR_01_C": 5,
-            "ALT_CORE_B_OR_03_C": 5,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 5
         }
     },
     {
@@ -1108,12 +1108,12 @@
         "Sigismar & Wingspan": 5,
         "ALT_COREKS_B_OR_01_C": 5,
         "ALT_CORE_B_OR_01_C": 5,
-        "Gulrang & Tocsin": 5,
-        "ALT_COREKS_B_OR_03_C": 5,
-        "ALT_CORE_B_OR_03_C": 5,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 5,
+        "ALT_CORE_B_OR_02_C": 5,
+        "ALT_COREKS_B_OR_02_C": 5,
         "subtype_1": "Maneuver",
         "handCost": 2,
         "reserveCost": "#3#",
@@ -1122,11 +1122,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_23/JPG/en_US/161b6b2f25ba617ce2d3e5a0a7ba06c9.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 5,
-            "ALT_COREKS_B_OR_03_C": 5,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 5,
             "ALT_CORE_B_OR_01_C": 5,
-            "ALT_CORE_B_OR_03_C": 5,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 5
         }
     },
     {
@@ -1204,12 +1204,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 5,
-        "ALT_CORE_B_OR_02_C": 5,
-        "ALT_COREKS_B_OR_02_C": 5,
+        "Gulrang & Tocsin": 5,
+        "ALT_COREKS_B_OR_03_C": 5,
+        "ALT_CORE_B_OR_03_C": 5,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_1": "Engineer",
         "handCost": 2,
         "reserveCost": 2,
@@ -1221,11 +1221,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_05/JPG/en_US/3bdd6915e2df3c6eacd95a2649e36f7e.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 5,
+            "ALT_COREKS_B_OR_03_C": 5,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 5
+            "ALT_CORE_B_OR_03_C": 5,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -1239,12 +1239,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 5,
-        "ALT_CORE_B_OR_02_C": 5,
-        "ALT_COREKS_B_OR_02_C": 5,
+        "Gulrang & Tocsin": 5,
+        "ALT_COREKS_B_OR_03_C": 5,
+        "ALT_CORE_B_OR_03_C": 5,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_1": "Engineer",
         "handCost": 2,
         "reserveCost": 2,
@@ -1256,11 +1256,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_05/JPG/en_US/d58ad2a37b175c278e6c066731d9eb1f.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 5,
+            "ALT_COREKS_B_OR_03_C": 5,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 5
+            "ALT_CORE_B_OR_03_C": 5,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -1274,12 +1274,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 5,
-        "ALT_CORE_B_OR_02_C": 5,
-        "ALT_COREKS_B_OR_02_C": 5,
+        "Gulrang & Tocsin": 5,
+        "ALT_COREKS_B_OR_03_C": 5,
+        "ALT_CORE_B_OR_03_C": 5,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_1": "Engineer",
         "handCost": 1,
         "reserveCost": 1,
@@ -1291,11 +1291,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/JPG/en_US/1892f5acf095f12ae21d434971245249.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 5,
+            "ALT_COREKS_B_OR_03_C": 5,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 5
+            "ALT_CORE_B_OR_03_C": 5,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -1309,12 +1309,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 5,
-        "ALT_CORE_B_OR_02_C": 5,
-        "ALT_COREKS_B_OR_02_C": 5,
+        "Gulrang & Tocsin": 5,
+        "ALT_COREKS_B_OR_03_C": 5,
+        "ALT_CORE_B_OR_03_C": 5,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_1": "Engineer",
         "handCost": 1,
         "reserveCost": 1,
@@ -1326,11 +1326,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_07/JPG/en_US/14329462c611856e1e92b35a7320e96f.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 5,
+            "ALT_COREKS_B_OR_03_C": 5,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 5
+            "ALT_CORE_B_OR_03_C": 5,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -1411,9 +1411,9 @@
         "Gulrang & Tocsin": 1,
         "ALT_COREKS_B_OR_03_C": 1,
         "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Waru & Mack": 2,
+        "ALT_CORE_B_OR_02_C": 2,
+        "ALT_COREKS_B_OR_02_C": 2,
         "subtype_1": "Landmark",
         "handCost": 6,
         "reserveCost": 6,
@@ -1423,10 +1423,10 @@
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
             "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_02_C": 2,
             "ALT_CORE_B_OR_01_C": 1,
             "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_02_C": 2
         }
     },
     {
@@ -1443,9 +1443,9 @@
         "Gulrang & Tocsin": 1,
         "ALT_COREKS_B_OR_03_C": 1,
         "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Waru & Mack": 2,
+        "ALT_CORE_B_OR_02_C": 2,
+        "ALT_COREKS_B_OR_02_C": 2,
         "subtype_1": "Landmark",
         "handCost": 6,
         "reserveCost": 6,
@@ -1455,10 +1455,10 @@
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
             "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_02_C": 2,
             "ALT_CORE_B_OR_01_C": 1,
             "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_02_C": 2
         }
     },
     {
@@ -1472,9 +1472,9 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
         "Waru & Mack": 3,
         "ALT_CORE_B_OR_02_C": 3,
         "ALT_COREKS_B_OR_02_C": 3,
@@ -1486,10 +1486,10 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_29/JPG/en_US/5a2d74b79c6a8e5b28ec7dcade1dc183.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_03_C": 3,
             "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_03_C": 3,
             "ALT_CORE_B_OR_02_C": 3
         }
     },
@@ -1504,9 +1504,9 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
         "Waru & Mack": 3,
         "ALT_CORE_B_OR_02_C": 3,
         "ALT_COREKS_B_OR_02_C": 3,
@@ -1518,10 +1518,10 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_29/JPG/en_US/7757f80515c25ac424f820e8a79d2942.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_03_C": 3,
             "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_03_C": 3,
             "ALT_CORE_B_OR_02_C": 3
         }
     },
@@ -1536,12 +1536,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_3": "Apprentice",
         "handCost": 2,
         "reserveCost": 4,
@@ -1553,11 +1553,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_09/JPG/en_US/f480ba5d470e7e2e0119c89ddc2757ee.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -1571,12 +1571,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_3": "Apprentice",
         "handCost": 2,
         "reserveCost": 4,
@@ -1588,11 +1588,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_09/JPG/en_US/e093cd4b8a69431d6c5b70dca587f655.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -1606,12 +1606,12 @@
         "Sigismar & Wingspan": 5,
         "ALT_COREKS_B_OR_01_C": 5,
         "ALT_CORE_B_OR_01_C": 5,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_1": "Soldier",
         "handCost": 3,
         "reserveCost": 3,
@@ -1623,11 +1623,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_17/JPG/en_US/347b49b76078ef6e982c0f00722db821.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 5,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 5,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -1641,12 +1641,12 @@
         "Sigismar & Wingspan": 5,
         "ALT_COREKS_B_OR_01_C": 5,
         "ALT_CORE_B_OR_01_C": 5,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_1": "Soldier",
         "handCost": 3,
         "reserveCost": 3,
@@ -1658,11 +1658,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_17/JPG/en_US/989d2cd2e010b70de9cc663c76696745.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 5,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 5,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -1676,12 +1676,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 4,
+        "ALT_CORE_B_OR_02_C": 4,
+        "ALT_COREKS_B_OR_02_C": 4,
         "subtype_1": "Deity",
         "subtype_2": "Bureaucrat",
         "handCost": 6,
@@ -1696,11 +1696,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/JPG/en_US/19849b6549aa887e3c68fc71ab395224.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 4,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 4
         }
     },
     {
@@ -1714,12 +1714,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 4,
+        "ALT_CORE_B_OR_02_C": 4,
+        "ALT_COREKS_B_OR_02_C": 4,
         "subtype_1": "Deity",
         "subtype_2": "Bureaucrat",
         "handCost": 6,
@@ -1734,11 +1734,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_19/JPG/en_US/9ff112dd43a897bfa5f5a825b204c08d.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 4,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 4
         }
     },
     {
@@ -1752,12 +1752,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 5,
+        "ALT_CORE_B_OR_02_C": 5,
+        "ALT_COREKS_B_OR_02_C": 5,
         "subtype_1": "Deity",
         "subtype_2": "Bureaucrat",
         "handCost": "#5#",
@@ -1772,11 +1772,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_19/JPG/en_US/ade7c221efde63a25134c367286560d5.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 5,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 5
         }
     },
     {
@@ -1790,12 +1790,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 5,
+        "ALT_CORE_B_OR_02_C": 5,
+        "ALT_COREKS_B_OR_02_C": 5,
         "subtype_1": "Deity",
         "subtype_2": "Bureaucrat",
         "handCost": "#5#",
@@ -1810,11 +1810,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/JPG/en_US/fe62774fe497c9f268c4511b3c8b6fae.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 5,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 5
         }
     },
     {
@@ -1828,12 +1828,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Soldier",
         "handCost": 4,
         "reserveCost": 4,
@@ -1845,11 +1845,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/JPG/en_US/4231f9dcd4d6049164a23fd1403eb41c.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -1863,12 +1863,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Soldier",
         "handCost": 4,
         "reserveCost": 4,
@@ -1880,11 +1880,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_17/JPG/en_US/588132cca4e175f4c46c58b9e11dd2e5.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -1898,12 +1898,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 5,
-        "ALT_CORE_B_OR_02_C": 5,
-        "ALT_COREKS_B_OR_02_C": 5,
+        "Gulrang & Tocsin": 5,
+        "ALT_COREKS_B_OR_03_C": 5,
+        "ALT_CORE_B_OR_03_C": 5,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Soldier",
         "handCost": "#5#",
         "reserveCost": "#5#",
@@ -1915,11 +1915,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_17/JPG/en_US/6f5eba2ea36314195ce6ddb1e5fc8cb0.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 5,
+            "ALT_COREKS_B_OR_03_C": 5,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 5
+            "ALT_CORE_B_OR_03_C": 5,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -1933,12 +1933,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 5,
-        "ALT_CORE_B_OR_02_C": 5,
-        "ALT_COREKS_B_OR_02_C": 5,
+        "Gulrang & Tocsin": 5,
+        "ALT_COREKS_B_OR_03_C": 5,
+        "ALT_CORE_B_OR_03_C": 5,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Soldier",
         "handCost": "#5#",
         "reserveCost": "#5#",
@@ -1950,11 +1950,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/JPG/en_US/2bb530b8dddf43fdccc8a6e4d5dc3890.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 5,
+            "ALT_COREKS_B_OR_03_C": 5,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 5
+            "ALT_CORE_B_OR_03_C": 5,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -1968,12 +1968,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Engineer",
         "handCost": 2,
         "reserveCost": 2,
@@ -1985,11 +1985,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_10/JPG/en_US/ebd9ded5d0a1541ee8f3ec85e66983f0.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -2003,12 +2003,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Engineer",
         "handCost": 2,
         "reserveCost": 2,
@@ -2020,11 +2020,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_10/JPG/en_US/e880892344379678be4271e21afc6601.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -2316,12 +2316,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Landmark",
         "handCost": "#4#",
         "reserveCost": "#4#",
@@ -2330,11 +2330,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_27/JPG/en_US/f385b07f01b503fbe609ee182e48471b.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -2348,12 +2348,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Landmark",
         "handCost": "#4#",
         "reserveCost": "#4#",
@@ -2362,11 +2362,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_27/JPG/en_US/c64583e83bcf8ecdbaeabd237530145f.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -2520,12 +2520,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 5,
-        "ALT_COREKS_B_OR_03_C": 5,
-        "ALT_CORE_B_OR_03_C": 5,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 5,
+        "ALT_CORE_B_OR_02_C": 5,
+        "ALT_COREKS_B_OR_02_C": 5,
         "subtype_2": "Bureaucrat",
         "handCost": 2,
         "reserveCost": 2,
@@ -2537,11 +2537,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_10/JPG/en_US/caf8d4de84fc005592e44aafccae41fb.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 5,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 5,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 5,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 5
         }
     },
     {
@@ -2555,12 +2555,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 5,
-        "ALT_COREKS_B_OR_03_C": 5,
-        "ALT_CORE_B_OR_03_C": 5,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 5,
+        "ALT_CORE_B_OR_02_C": 5,
+        "ALT_COREKS_B_OR_02_C": 5,
         "subtype_2": "Bureaucrat",
         "handCost": 2,
         "reserveCost": 2,
@@ -2572,11 +2572,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_10/JPG/en_US/cef0bef8ed33109830575070ec150ebf.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 5,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 5,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 5,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 5
         }
     },
     {
@@ -2590,12 +2590,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_2": "Bureaucrat",
         "handCost": 2,
         "reserveCost": 2,
@@ -2607,11 +2607,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_08/JPG/en_US/bf031a65b7c70d86172a56aa2aabf1fa.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -2625,12 +2625,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_2": "Bureaucrat",
         "handCost": 2,
         "reserveCost": 2,
@@ -2642,11 +2642,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_08/JPG/en_US/bcabd50773811f7d53e76f11d8894489.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -2660,12 +2660,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_2": "Bureaucrat",
         "handCost": 2,
         "reserveCost": 2,
@@ -2679,11 +2679,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_08/JPG/en_US/02fb0a4387fbc9b365554a32858ddd5e.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -2697,12 +2697,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_2": "Bureaucrat",
         "handCost": 2,
         "reserveCost": 2,
@@ -2716,11 +2716,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_08/JPG/en_US/c38a07689e80dbd316116837c86aed55.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -2870,12 +2870,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_1": "Boon",
         "handCost": 2,
         "reserveCost": 1,
@@ -2884,11 +2884,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_27/JPG/en_US/8ee2ed33d2532e244ebf012a7555c92e.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -2902,12 +2902,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_1": "Boon",
         "handCost": 2,
         "reserveCost": 1,
@@ -2916,11 +2916,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_27/JPG/en_US/8af4a420576813911c25af63232b8e97.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -2934,12 +2934,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Maneuver",
         "handCost": 5,
         "reserveCost": 6,
@@ -2948,11 +2948,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_26/JPG/en_US/ae70d44dc0dabeb70dc1abfa5ef5ff32.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -2966,12 +2966,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Maneuver",
         "handCost": 5,
         "reserveCost": 6,
@@ -2980,11 +2980,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_26/JPG/en_US/a3b02d11bfb4620f9abca9486d2de34a.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -2998,12 +2998,12 @@
         "Sigismar & Wingspan": 5,
         "ALT_COREKS_B_OR_01_C": 5,
         "ALT_CORE_B_OR_01_C": 5,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 5,
-        "ALT_CORE_B_OR_02_C": 5,
-        "ALT_COREKS_B_OR_02_C": 5,
+        "Gulrang & Tocsin": 5,
+        "ALT_COREKS_B_OR_03_C": 5,
+        "ALT_CORE_B_OR_03_C": 5,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_1": "Maneuver",
         "handCost": 5,
         "reserveCost": "#5#",
@@ -3012,11 +3012,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_26/JPG/en_US/14c68538efdec8cf0a0ef40662db1ff2.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 5,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 5,
+            "ALT_COREKS_B_OR_03_C": 5,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 5,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 5
+            "ALT_CORE_B_OR_03_C": 5,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -3030,12 +3030,12 @@
         "Sigismar & Wingspan": 5,
         "ALT_COREKS_B_OR_01_C": 5,
         "ALT_CORE_B_OR_01_C": 5,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 5,
-        "ALT_CORE_B_OR_02_C": 5,
-        "ALT_COREKS_B_OR_02_C": 5,
+        "Gulrang & Tocsin": 5,
+        "ALT_COREKS_B_OR_03_C": 5,
+        "ALT_CORE_B_OR_03_C": 5,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_1": "Maneuver",
         "handCost": 5,
         "reserveCost": "#5#",
@@ -3044,11 +3044,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_26/JPG/en_US/29dde100bc10c0b846bbc3c7f0ce095c.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 5,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 5,
+            "ALT_COREKS_B_OR_03_C": 5,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 5,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 5
+            "ALT_CORE_B_OR_03_C": 5,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -3062,12 +3062,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_2": "Bureaucrat",
         "handCost": 3,
         "reserveCost": 3,
@@ -3079,11 +3079,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_16/JPG/en_US/069e844bb70361b2301866dd9fdccf75.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -3097,12 +3097,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_2": "Bureaucrat",
         "handCost": 3,
         "reserveCost": 3,
@@ -3114,11 +3114,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_16/JPG/en_US/4738df01e8364580586b545fc723a0e1.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -3132,12 +3132,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 5,
-        "ALT_COREKS_B_OR_03_C": 5,
-        "ALT_CORE_B_OR_03_C": 5,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 5,
+        "ALT_CORE_B_OR_02_C": 5,
+        "ALT_COREKS_B_OR_02_C": 5,
         "subtype_2": "Bureaucrat",
         "handCost": "#2#",
         "reserveCost": "#2#",
@@ -3149,11 +3149,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_16/JPG/en_US/e22685a7cd5839992c23abeb9d8e865e.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 5,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 5,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 5,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 5
         }
     },
     {
@@ -3167,12 +3167,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 5,
-        "ALT_COREKS_B_OR_03_C": 5,
-        "ALT_CORE_B_OR_03_C": 5,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 5,
+        "ALT_CORE_B_OR_02_C": 5,
+        "ALT_COREKS_B_OR_02_C": 5,
         "subtype_2": "Bureaucrat",
         "handCost": "#2#",
         "reserveCost": "#2#",
@@ -3184,11 +3184,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_16/JPG/en_US/aff8ed8d0de389d5a004a0f97ccbe788.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 5,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 5,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 5,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 5
         }
     },
     {
@@ -3274,12 +3274,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 5,
-        "ALT_CORE_B_OR_02_C": 5,
-        "ALT_COREKS_B_OR_02_C": 5,
+        "Gulrang & Tocsin": 5,
+        "ALT_COREKS_B_OR_03_C": 5,
+        "ALT_CORE_B_OR_03_C": 5,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_1": "Soldier",
         "subtype_3": "Apprentice",
         "handCost": 2,
@@ -3292,11 +3292,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/JPG/en_US/ead659a76803d4d8e6bd3f1f3105cb91.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 5,
+            "ALT_COREKS_B_OR_03_C": 5,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 5
+            "ALT_CORE_B_OR_03_C": 5,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -3310,12 +3310,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 5,
-        "ALT_CORE_B_OR_02_C": 5,
-        "ALT_COREKS_B_OR_02_C": 5,
+        "Gulrang & Tocsin": 5,
+        "ALT_COREKS_B_OR_03_C": 5,
+        "ALT_CORE_B_OR_03_C": 5,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_1": "Soldier",
         "subtype_3": "Apprentice",
         "handCost": 2,
@@ -3328,11 +3328,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/JPG/en_US/45810e5146cc20c5886d791de3f284ca.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 5,
+            "ALT_COREKS_B_OR_03_C": 5,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 5
+            "ALT_CORE_B_OR_03_C": 5,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -3346,12 +3346,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 4,
-        "ALT_CORE_B_OR_02_C": 4,
-        "ALT_COREKS_B_OR_02_C": 4,
+        "Gulrang & Tocsin": 4,
+        "ALT_COREKS_B_OR_03_C": 4,
+        "ALT_CORE_B_OR_03_C": 4,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Landmark",
         "handCost": 3,
         "reserveCost": 3,
@@ -3360,11 +3360,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_30/JPG/en_US/2cab24efaf7ea5655920a42d8e5132ef.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 4,
+            "ALT_COREKS_B_OR_03_C": 4,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 4
+            "ALT_CORE_B_OR_03_C": 4,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -3378,12 +3378,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 4,
-        "ALT_CORE_B_OR_02_C": 4,
-        "ALT_COREKS_B_OR_02_C": 4,
+        "Gulrang & Tocsin": 4,
+        "ALT_COREKS_B_OR_03_C": 4,
+        "ALT_CORE_B_OR_03_C": 4,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Landmark",
         "handCost": 3,
         "reserveCost": 3,
@@ -3392,11 +3392,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_30/JPG/en_US/38d9ccf88dd0aef05537856cc3c28101.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 4,
+            "ALT_COREKS_B_OR_03_C": 4,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 4
+            "ALT_CORE_B_OR_03_C": 4,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -3410,12 +3410,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Landmark",
         "handCost": "#5#",
         "reserveCost": "#5#",
@@ -3424,11 +3424,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_30/JPG/en_US/a7331980ba00841a5335754179acd79f.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -3442,12 +3442,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Landmark",
         "handCost": "#5#",
         "reserveCost": "#5#",
@@ -3456,11 +3456,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_30/JPG/en_US/72d0cccf5afbe0ad4721665f22100885.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -3474,12 +3474,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Soldier",
         "handCost": 3,
         "reserveCost": 3,
@@ -3491,11 +3491,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_13/JPG/en_US/5f051a9bda8dea673bd6442cb1a4ea4a.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -3509,12 +3509,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Soldier",
         "handCost": 3,
         "reserveCost": 3,
@@ -3526,11 +3526,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_13/JPG/en_US/a01943fd517f13031d7eda8d654b35cf.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -3544,12 +3544,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 5,
-        "ALT_CORE_B_OR_02_C": 5,
-        "ALT_COREKS_B_OR_02_C": 5,
+        "Gulrang & Tocsin": 5,
+        "ALT_COREKS_B_OR_03_C": 5,
+        "ALT_CORE_B_OR_03_C": 5,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Soldier",
         "handCost": 3,
         "reserveCost": 3,
@@ -3561,11 +3561,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_13/JPG/en_US/73f26988450ec5e63edb891f7e0f7d6c.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 5,
+            "ALT_COREKS_B_OR_03_C": 5,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 5
+            "ALT_CORE_B_OR_03_C": 5,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -3579,12 +3579,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 5,
-        "ALT_CORE_B_OR_02_C": 5,
-        "ALT_COREKS_B_OR_02_C": 5,
+        "Gulrang & Tocsin": 5,
+        "ALT_COREKS_B_OR_03_C": 5,
+        "ALT_CORE_B_OR_03_C": 5,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Soldier",
         "handCost": 3,
         "reserveCost": 3,
@@ -3596,11 +3596,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_13/JPG/en_US/0582d5930d423d756f4e81fc7eb2eab6.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 5,
+            "ALT_COREKS_B_OR_03_C": 5,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 5
+            "ALT_CORE_B_OR_03_C": 5,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -3684,12 +3684,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 5,
-        "ALT_CORE_B_OR_02_C": 5,
-        "ALT_COREKS_B_OR_02_C": 5,
+        "Gulrang & Tocsin": 5,
+        "ALT_COREKS_B_OR_03_C": 5,
+        "ALT_CORE_B_OR_03_C": 5,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Citizen",
         "handCost": 3,
         "reserveCost": 2,
@@ -3701,11 +3701,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_14/JPG/en_US/1afe6ce083f83ad1ed2d01aab83b641f.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 5,
+            "ALT_COREKS_B_OR_03_C": 5,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 5
+            "ALT_CORE_B_OR_03_C": 5,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -3719,12 +3719,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 5,
-        "ALT_CORE_B_OR_02_C": 5,
-        "ALT_COREKS_B_OR_02_C": 5,
+        "Gulrang & Tocsin": 5,
+        "ALT_COREKS_B_OR_03_C": 5,
+        "ALT_CORE_B_OR_03_C": 5,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Citizen",
         "handCost": 3,
         "reserveCost": 2,
@@ -3736,11 +3736,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_14/JPG/en_US/0e595c939528637a87fb5d2884102d83.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 5,
+            "ALT_COREKS_B_OR_03_C": 5,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 5
+            "ALT_CORE_B_OR_03_C": 5,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -3820,12 +3820,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Soldier",
         "handCost": 1,
         "reserveCost": 1,
@@ -3835,11 +3835,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_05/JPG/en_US/6d7c92b9b0340772d6692a6e51053f17.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -3853,12 +3853,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Soldier",
         "handCost": 1,
         "reserveCost": 1,
@@ -3868,11 +3868,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_05/JPG/en_US/ac943ef35734273816cfe342281551db.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -4026,12 +4026,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 5,
-        "ALT_CORE_B_OR_02_C": 5,
-        "ALT_COREKS_B_OR_02_C": 5,
+        "Gulrang & Tocsin": 5,
+        "ALT_COREKS_B_OR_03_C": 5,
+        "ALT_CORE_B_OR_03_C": 5,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Messenger",
         "handCost": 1,
         "reserveCost": 1,
@@ -4043,11 +4043,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_04/JPG/en_US/e253388d205dd1fa449a1d2739a9b25f.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 5,
+            "ALT_COREKS_B_OR_03_C": 5,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 5
+            "ALT_CORE_B_OR_03_C": 5,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -4061,12 +4061,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 5,
-        "ALT_CORE_B_OR_02_C": 5,
-        "ALT_COREKS_B_OR_02_C": 5,
+        "Gulrang & Tocsin": 5,
+        "ALT_COREKS_B_OR_03_C": 5,
+        "ALT_CORE_B_OR_03_C": 5,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Messenger",
         "handCost": 1,
         "reserveCost": 1,
@@ -4078,11 +4078,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_04/JPG/en_US/f90c11cd0c6b3e772ef0864be3892df3.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 5,
+            "ALT_COREKS_B_OR_03_C": 5,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 5
+            "ALT_CORE_B_OR_03_C": 5,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -4096,12 +4096,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Messenger",
         "handCost": 1,
         "reserveCost": 1,
@@ -4113,11 +4113,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_04/JPG/en_US/6fa1b1598867402ffd12ca7511b3c23d.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -4131,12 +4131,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Messenger",
         "handCost": 1,
         "reserveCost": 1,
@@ -4148,11 +4148,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_04/JPG/en_US/c6050a612a7d3ef727f24e378dc70894.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -4310,12 +4310,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 5,
-        "ALT_CORE_B_OR_02_C": 5,
-        "ALT_COREKS_B_OR_02_C": 5,
+        "Gulrang & Tocsin": 5,
+        "ALT_COREKS_B_OR_03_C": 5,
+        "ALT_CORE_B_OR_03_C": 5,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Messenger",
         "handCost": 1,
         "reserveCost": 3,
@@ -4327,11 +4327,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_04/JPG/en_US/d9b6911299747ba971c985d959187e22.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 5,
+            "ALT_COREKS_B_OR_03_C": 5,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 5
+            "ALT_CORE_B_OR_03_C": 5,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -4345,12 +4345,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 5,
-        "ALT_CORE_B_OR_02_C": 5,
-        "ALT_COREKS_B_OR_02_C": 5,
+        "Gulrang & Tocsin": 5,
+        "ALT_COREKS_B_OR_03_C": 5,
+        "ALT_CORE_B_OR_03_C": 5,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Messenger",
         "handCost": 1,
         "reserveCost": 3,
@@ -4362,11 +4362,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_04/JPG/en_US/5e30ef995085f23a5343859cbc99bd5f.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 5,
+            "ALT_COREKS_B_OR_03_C": 5,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 5
+            "ALT_CORE_B_OR_03_C": 5,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -4380,9 +4380,9 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
         "Waru & Mack": 3,
         "ALT_CORE_B_OR_02_C": 3,
         "ALT_COREKS_B_OR_02_C": 3,
@@ -4397,10 +4397,10 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_21/JPG/en_US/0ce7906fc152f144262e908cf7e484a7.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_03_C": 3,
             "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_03_C": 3,
             "ALT_CORE_B_OR_02_C": 3
         }
     },
@@ -4415,9 +4415,9 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
         "Waru & Mack": 3,
         "ALT_CORE_B_OR_02_C": 3,
         "ALT_COREKS_B_OR_02_C": 3,
@@ -4432,10 +4432,10 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/JPG/en_US/4d8e1c90f1b02550fa72cf8bc6908cc9.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_03_C": 3,
             "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_03_C": 3,
             "ALT_CORE_B_OR_02_C": 3
         }
     },
@@ -4450,12 +4450,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 4,
+        "ALT_CORE_B_OR_02_C": 4,
+        "ALT_COREKS_B_OR_02_C": 4,
         "subtype_2": "Bureaucrat",
         "handCost": 4,
         "reserveCost": 4,
@@ -4467,11 +4467,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_21/JPG/en_US/c586ce236748ac0f05609a776a7f18bc.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 4,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 4
         }
     },
     {
@@ -4485,12 +4485,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 4,
+        "ALT_CORE_B_OR_02_C": 4,
+        "ALT_COREKS_B_OR_02_C": 4,
         "subtype_2": "Bureaucrat",
         "handCost": 4,
         "reserveCost": 4,
@@ -4502,11 +4502,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/JPG/en_US/fb3d78d2c43bd38288369457c032c4bd.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 4,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 4
         }
     },
     {
@@ -4523,9 +4523,9 @@
         "Gulrang & Tocsin": 3,
         "ALT_COREKS_B_OR_03_C": 3,
         "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Waru & Mack": 4,
+        "ALT_CORE_B_OR_02_C": 4,
+        "ALT_COREKS_B_OR_02_C": 4,
         "subtype_1": "Disruption",
         "handCost": 3,
         "reserveCost": 3,
@@ -4535,10 +4535,10 @@
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
             "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_02_C": 4,
             "ALT_CORE_B_OR_01_C": 3,
             "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_02_C": 4
         }
     },
     {
@@ -4555,9 +4555,9 @@
         "Gulrang & Tocsin": 3,
         "ALT_COREKS_B_OR_03_C": 3,
         "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Waru & Mack": 4,
+        "ALT_CORE_B_OR_02_C": 4,
+        "ALT_COREKS_B_OR_02_C": 4,
         "subtype_1": "Disruption",
         "handCost": 3,
         "reserveCost": 3,
@@ -4567,10 +4567,10 @@
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
             "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_02_C": 4,
             "ALT_CORE_B_OR_01_C": 3,
             "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_02_C": 4
         }
     },
     {
@@ -4584,9 +4584,9 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
+        "Gulrang & Tocsin": 4,
+        "ALT_COREKS_B_OR_03_C": 4,
+        "ALT_CORE_B_OR_03_C": 4,
         "Waru & Mack": 4,
         "ALT_CORE_B_OR_02_C": 4,
         "ALT_COREKS_B_OR_02_C": 4,
@@ -4598,10 +4598,10 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_25/JPG/en_US/df0f27f111240608772903342284f428.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_03_C": 4,
             "ALT_COREKS_B_OR_02_C": 4,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_03_C": 4,
             "ALT_CORE_B_OR_02_C": 4
         }
     },
@@ -4616,9 +4616,9 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
+        "Gulrang & Tocsin": 4,
+        "ALT_COREKS_B_OR_03_C": 4,
+        "ALT_CORE_B_OR_03_C": 4,
         "Waru & Mack": 4,
         "ALT_CORE_B_OR_02_C": 4,
         "ALT_COREKS_B_OR_02_C": 4,
@@ -4630,10 +4630,10 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_25/JPG/en_US/ddc1bc997649c151d391244096f4b1fa.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_03_C": 4,
             "ALT_COREKS_B_OR_02_C": 4,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_03_C": 4,
             "ALT_CORE_B_OR_02_C": 4
         }
     },
@@ -4712,12 +4712,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Disruption",
         "handCost": "#3#",
         "reserveCost": "#3#",
@@ -4726,11 +4726,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_24/JPG/en_US/e14b7eb918edc9b46ea2829903434a2a.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -4744,12 +4744,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Disruption",
         "handCost": "#3#",
         "reserveCost": "#3#",
@@ -4758,11 +4758,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_24/JPG/en_US/87f13a633b70bb3c4e9b3649a2d1a3a0.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -4776,12 +4776,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_2": "Bureaucrat",
         "handCost": 4,
         "reserveCost": 4,
@@ -4793,11 +4793,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_12/JPG/en_US/ecaef909540f4578b9eda3100736236e.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -4811,12 +4811,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_2": "Bureaucrat",
         "handCost": 4,
         "reserveCost": 4,
@@ -4828,11 +4828,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_12/JPG/en_US/69f5bdfc0ba051436d8f793f32132a1d.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -4846,12 +4846,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 5,
-        "ALT_COREKS_B_OR_03_C": 5,
-        "ALT_CORE_B_OR_03_C": 5,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 5,
+        "ALT_CORE_B_OR_02_C": 5,
+        "ALT_COREKS_B_OR_02_C": 5,
         "subtype_2": "Bureaucrat",
         "handCost": "#3#",
         "reserveCost": "#3#",
@@ -4863,11 +4863,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_12/JPG/en_US/7e8cce82bb60a843d2251dcc59614152.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 5,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 5,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 5,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 5
         }
     },
     {
@@ -4881,12 +4881,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 5,
-        "ALT_COREKS_B_OR_03_C": 5,
-        "ALT_CORE_B_OR_03_C": 5,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 5,
+        "ALT_CORE_B_OR_02_C": 5,
+        "ALT_COREKS_B_OR_02_C": 5,
         "subtype_2": "Bureaucrat",
         "handCost": "#3#",
         "reserveCost": "#3#",
@@ -4898,11 +4898,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_12/JPG/en_US/21cbe6781c00dc2619f57ffa3a0d0aef.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 5,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 5,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 5,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 5
         }
     },
     {
@@ -4916,12 +4916,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_2": "Bureaucrat",
         "subtype_3": "Noble",
         "handCost": 2,
@@ -4932,11 +4932,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_09/JPG/en_US/0980657df54e03c09bf16dc5fc1cc7ff.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -4950,12 +4950,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_2": "Bureaucrat",
         "subtype_3": "Noble",
         "handCost": 2,
@@ -4966,11 +4966,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_09/JPG/en_US/4b7a10e91f2d515a68bdb7c9dcd607c9.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -4984,12 +4984,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_2": "Bureaucrat",
         "subtype_3": "Noble",
         "handCost": "#1#",
@@ -5000,11 +5000,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_09/JPG/en_US/d18dc6e81ff2a5a714b10eda77e41124.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -5018,12 +5018,12 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
-        "Waru & Mack": 1,
-        "ALT_CORE_B_OR_02_C": 1,
-        "ALT_COREKS_B_OR_02_C": 1,
+        "Gulrang & Tocsin": 1,
+        "ALT_COREKS_B_OR_03_C": 1,
+        "ALT_CORE_B_OR_03_C": 1,
+        "Waru & Mack": 3,
+        "ALT_CORE_B_OR_02_C": 3,
+        "ALT_COREKS_B_OR_02_C": 3,
         "subtype_2": "Bureaucrat",
         "subtype_3": "Noble",
         "handCost": "#1#",
@@ -5034,11 +5034,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_09/JPG/en_US/e361d6ca0e1085d44a7357d025fc6733.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 3,
-            "ALT_COREKS_B_OR_02_C": 1,
+            "ALT_COREKS_B_OR_03_C": 1,
+            "ALT_COREKS_B_OR_02_C": 3,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 3,
-            "ALT_CORE_B_OR_02_C": 1
+            "ALT_CORE_B_OR_03_C": 1,
+            "ALT_CORE_B_OR_02_C": 3
         }
     },
     {
@@ -5186,12 +5186,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Landmark",
         "handCost": "#4#",
         "reserveCost": "#4#",
@@ -5200,11 +5200,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_28/JPG/en_US/f7d9d5c9ab886fa90f95becbe050fc07.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -5218,12 +5218,12 @@
         "Sigismar & Wingspan": 3,
         "ALT_COREKS_B_OR_01_C": 3,
         "ALT_CORE_B_OR_01_C": 3,
-        "Gulrang & Tocsin": 1,
-        "ALT_COREKS_B_OR_03_C": 1,
-        "ALT_CORE_B_OR_03_C": 1,
-        "Waru & Mack": 3,
-        "ALT_CORE_B_OR_02_C": 3,
-        "ALT_COREKS_B_OR_02_C": 3,
+        "Gulrang & Tocsin": 3,
+        "ALT_COREKS_B_OR_03_C": 3,
+        "ALT_CORE_B_OR_03_C": 3,
+        "Waru & Mack": 1,
+        "ALT_CORE_B_OR_02_C": 1,
+        "ALT_COREKS_B_OR_02_C": 1,
         "subtype_1": "Landmark",
         "handCost": "#4#",
         "reserveCost": "#4#",
@@ -5232,11 +5232,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_28/JPG/en_US/1963c7802bf9d3746e4854ca8a2d9bcb.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 3,
-            "ALT_COREKS_B_OR_03_C": 1,
-            "ALT_COREKS_B_OR_02_C": 3,
+            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_02_C": 1,
             "ALT_CORE_B_OR_01_C": 3,
-            "ALT_CORE_B_OR_03_C": 1,
-            "ALT_CORE_B_OR_02_C": 3
+            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_02_C": 1
         }
     },
     {
@@ -5392,9 +5392,9 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
+        "Gulrang & Tocsin": 5,
+        "ALT_COREKS_B_OR_03_C": 5,
+        "ALT_CORE_B_OR_03_C": 5,
         "Waru & Mack": 5,
         "ALT_CORE_B_OR_02_C": 5,
         "ALT_COREKS_B_OR_02_C": 5,
@@ -5410,10 +5410,10 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/JPG/en_US/cf4392866eebb5c04da9049934697a76.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_03_C": 5,
             "ALT_COREKS_B_OR_02_C": 5,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_03_C": 5,
             "ALT_CORE_B_OR_02_C": 5
         }
     },
@@ -5428,9 +5428,9 @@
         "Sigismar & Wingspan": 1,
         "ALT_COREKS_B_OR_01_C": 1,
         "ALT_CORE_B_OR_01_C": 1,
-        "Gulrang & Tocsin": 3,
-        "ALT_COREKS_B_OR_03_C": 3,
-        "ALT_CORE_B_OR_03_C": 3,
+        "Gulrang & Tocsin": 5,
+        "ALT_COREKS_B_OR_03_C": 5,
+        "ALT_CORE_B_OR_03_C": 5,
         "Waru & Mack": 5,
         "ALT_CORE_B_OR_02_C": 5,
         "ALT_COREKS_B_OR_02_C": 5,
@@ -5446,10 +5446,10 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_22/JPG/en_US/fdb713b3062fdcc5bc72d56fcee3bf20.jpg",
         "ratings": {
             "ALT_COREKS_B_OR_01_C": 1,
-            "ALT_COREKS_B_OR_03_C": 3,
+            "ALT_COREKS_B_OR_03_C": 5,
             "ALT_COREKS_B_OR_02_C": 5,
             "ALT_CORE_B_OR_01_C": 1,
-            "ALT_CORE_B_OR_03_C": 3,
+            "ALT_CORE_B_OR_03_C": 5,
             "ALT_CORE_B_OR_02_C": 5
         }
     },
