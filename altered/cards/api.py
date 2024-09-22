@@ -1,7 +1,8 @@
 import logging
 from ninja import NinjaAPI, Form
 from .models import Card, CardRating, Deck
-from .schemas import CardSchema, CardRatingSchema, RatingsUploadSchema, DeckInputSchema, DeckSchema, DeckOutputSchema, Error
+from .schemas import (CardSchema, CardRatingSchema, RatingsUploadSchema, DeckInputSchema, DeckSchema, DeckOutputSchema,
+                      Success, Error)
 from .get_cards_from_json import get_cards_from_json, get_all_cards_from_json
 
 api = NinjaAPI(title='Altered-TCG API', version='0.1')
@@ -40,7 +41,7 @@ def suggest_deck(request, hero_id: str):
     if card is None:
         return 404, {'message': 'Hero not found'}
     else:
-        ratings_query = CardRating.objects.filter(hero_id=card).order_by('-rating','card_id__rarity')
+        ratings_query = CardRating.objects.filter(hero_id=card).order_by('-rating', '-updated_at', 'card_id__rarity')
         ratings = list(ratings_query)
 
         cards_left = 39
@@ -61,7 +62,9 @@ def suggest_deck(request, hero_id: str):
             if card_name not in card_max:
                 card_max[card_name] = 0
             while cards_left > 0:
-                if rares_left == 0 or card_max[card_name] == max_of_each_card:
+                if rares_left == 0 and rating.card_id.rarity == 'RARE':
+                    break
+                if card_max[card_name] == max_of_each_card:
                     break
                 if rating.card_id.id not in cards:
                     cards[rating.card_id.id] = {
@@ -97,7 +100,7 @@ def bulk_card_upload(request):
     return 200, card_models
 
 
-@api.post('/upload_ratings', response={200: list[CardRatingSchema], 404: Error}, tags=["Card"])
+@api.post('/upload_ratings', response={200: Success, 404: Error}, tags=["Card"])
 def upload_ratings(request, card_ratings: list[RatingsUploadSchema]):
     rating_models = []
     for card_rating in card_ratings:
@@ -110,7 +113,7 @@ def upload_ratings(request, card_ratings: list[RatingsUploadSchema]):
                 new_rating = CardRating.objects.create(card_id=card, hero_id=hero, rating=rating_value)
                 rating_models.append(new_rating)
     rating_models = CardRating.objects.bulk_create(objs=rating_models, ignore_conflicts=True)
-    return 200, rating_models
+    return 200, {"message":"success"}
 
 
 @api.post("/upload_deck", response={200: DeckSchema, 404: Error}, tags=["Deck"])

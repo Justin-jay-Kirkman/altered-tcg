@@ -35,3 +35,6 @@ class DeckOutputSchema(Schema):
 
 class Error(Schema):
     message: str
+
+class Success(Schema):
+    message: str

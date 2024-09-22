@@ -27,7 +27,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_13/JPG/en_US/5ae824b1f9780204fab4b2b9c1d3a5b2.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -58,7 +62,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_13/JPG/en_US/55de9d90bd4ca1d3c960d4ffab541dfe.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -83,10 +91,14 @@
         "reserveCost": 3,
         "abilities_en": "[[Fleeting]]. (Send me to Discard instead of Reserve after my effect resolves.)  Sacrifice a Character. If you do, discard target Character or Permanent.",
         "abilities_fr": "[[Fugace]]. (Envoyez-moi à la Défausse plutôt qu'en Réserve après résolution de mon effet.)  Sacrifiez un Personnage. Si vous le faites, défaussez un Personnage ou un Permanent ciblé.",
-        "imagePath": "https:
+        "imagePath": "https:",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -114,7 +126,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_21/JPG/en_US/70a331fc0173f760e3b76e85f4720412.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -142,7 +158,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_30/JPG/en_US/c5ba409f8e3260f3232bbe3fc04a3778.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -170,7 +190,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_30/JPG/en_US/667332046af79c3e4dd26f5e95c2ebd3.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -201,7 +225,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_16/JPG/en_US/b46ea60f3e04a6d0926b10b269f8f93b.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -232,7 +260,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_16/JPG/en_US/3e7e4870d7bf3b30de2a9ad32866e8ca.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -263,7 +295,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_10/JPG/en_US/5be9d2ca0827e2ae0d7452c1944c1e06.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -294,7 +330,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_10/JPG/en_US/d62768a50ab9f3dd3938f4a37fac7c22.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -325,7 +365,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_12/JPG/en_US/824a1fd07910a72f6e0ec311d7a1c4a7.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -356,7 +400,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_12/JPG/en_US/7282915c1b9840dbb536d636fa183697.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -384,7 +432,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_25/JPG/en_US/789bd4c64a1b9815543a27f22101b26f.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -412,7 +464,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_25/JPG/en_US/eed2b803e7cdb114899d81e2a1466f74.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -440,7 +496,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_28/JPG/en_US/1c1e5de169387e1b9e829ede7d61382c.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -468,7 +528,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_28/JPG/en_US/56fda4a991a0fd3f6c98478ccad18721.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -501,7 +565,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_08/JPG/en_US/d8f0e90f2aeaa49b4e90e9577ac8f44c.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -534,7 +602,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_08/JPG/en_US/19804117b5c5eb408049efef49dc9ac7.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -566,7 +638,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_07/JPG/en_US/8ef5ff8a842d6454087b722fe56c1fea.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -598,7 +674,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_07/JPG/en_US/473a28ea3ad8115f581e2e17ab743d52.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -626,7 +706,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_28/JPG/en_US/97b3f7e829689bdd1c0ddb84bb185217.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -654,7 +738,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_28/JPG/en_US/ca7c41abbd1511ddee311a4007420758.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -685,7 +773,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_04/JPG/en_US/722c00c47add6b52fb10ac87cdb7547b.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -716,7 +808,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_04/JPG/en_US/7d5f58190cffa578c950c5fbd8c8b8a9.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -748,7 +844,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/JPG/en_US/041cce8753c68f476b01281e707e9012.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -780,7 +880,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_06/JPG/en_US/018cd18475e235a87262b7c81d824eba.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -811,7 +915,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_08/JPG/en_US/8b4d6f528f8ead22397ca861c4758102.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -842,7 +950,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_08/JPG/en_US/c8e971c332d20b9bb8835a4c020fad51.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -870,7 +982,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_28/JPG/en_US/812bc5e55d11a6dd458204917db0aa86.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -898,7 +1014,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_28/JPG/en_US/c7dca25218c6a54b4009aab90853c617.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -926,7 +1046,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_25/JPG/en_US/37b5b52aa3edd70f8b6d958c8873b023.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -954,7 +1078,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_25/JPG/en_US/19393ac07dc16ef40a3428548fd47a45.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -983,7 +1111,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_05/JPG/en_US/924a0ba34118d58441f77da351897292.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1012,7 +1144,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_05/JPG/en_US/344a687541d5d19519a6e02a1d7119b0.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1043,7 +1179,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_10/JPG/en_US/f91a4812c165203492d2c829dd6e715c.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1074,7 +1214,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_10/JPG/en_US/4c86d4de4defac7525e702d359d2987d.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1105,7 +1249,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_08/JPG/en_US/0f7606f8927972a06acbaafaf33871be.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1136,7 +1284,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_08/JPG/en_US/27687acb698934fef7891be9889f2f70.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1170,7 +1322,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/JPG/en_US/c18b9c8e568e414a526d55d112c2ca4a.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1204,7 +1360,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/JPG/en_US/78697b9ffdd984d1be61c551a9c8b3ac.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1235,7 +1395,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_16/JPG/en_US/e2d9ed61991bf8646e8dd805e97d301a.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1266,7 +1430,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_16/JPG/en_US/dcaf95a3d0cd32774f0d64d9ff340059.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1298,7 +1466,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_22/JPG/en_US/758b76e39aba42ef973973b489d40f23.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1330,7 +1502,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/JPG/en_US/30b9162655b308ad9e70e74306fb6348.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1361,7 +1537,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_OR_20/JPG/en_US/8a914533b12ec31d1eb18f6bda745416.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1392,7 +1572,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_20/JPG/en_US/074aaa71db6e0aef11a407de84ae76bf.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1426,7 +1610,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_19/JPG/en_US/304f4ca4534e5cc766cdb461c2af0524.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1460,7 +1648,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/JPG/en_US/778a6cce4138b75f862b57a26c5034a3.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1488,7 +1680,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_27/JPG/en_US/c054cb09c3b13319c7db81c537d166f7.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1516,7 +1712,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_27/JPG/en_US/a6d2965ca9c101b8f92f1f335f199013.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1544,7 +1744,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_30/JPG/en_US/997b9aae2eed74fb8cc0ccc4794008e6.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1572,7 +1776,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_30/JPG/en_US/7f9c371256692ab63f79fb8b16cb0050.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1600,7 +1808,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_29/JPG/en_US/c3b0b19e49ea9c05afc338676e425208.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1628,7 +1840,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_29/JPG/en_US/7f3569b8198b515eb6f00b2544e17211.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1659,7 +1875,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_05/JPG/en_US/7780e503f0b1a5a4a493ddb2371a16ab.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1690,7 +1910,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_05/JPG/en_US/a7c3f122947596a0c2412e7486034b50.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1721,7 +1945,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_05/JPG/en_US/cd75be39be26bbdd0381ae94fde0ea79.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1752,7 +1980,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_05/JPG/en_US/b04cc02bf02764dd88352c1915b96f26.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1784,7 +2016,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_04/JPG/en_US/014ba003f4f7aebc9b04401e7e2f7e52.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -1816,7 +2052,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_04/JPG/en_US/244d72d9dbd7ba47d8a473804a570d2c.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -1850,7 +2090,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_04/JPG/en_US/16444f99eeba6a2e33f59739edd0795d.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1884,7 +2128,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_04/JPG/en_US/47c917dc96687b9ec5ed727a95797a40.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -1916,7 +2164,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_07/JPG/en_US/a06d2907f458149e4dfd461664bc1bf0.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -1948,7 +2200,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/JPG/en_US/6c9216f33d95f4300c3b6b5c57f628a3.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -1980,7 +2236,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_07/JPG/en_US/0ae51c1b6c1a35965f29f966d4a4c0cf.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -2012,7 +2272,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/JPG/en_US/3676e5ac100aa7ac137ea62e6129e831.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -2042,7 +2306,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/JPG/en_US/df8d68e0bb3ebd7406f3329efad630c3.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -2072,7 +2340,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_08/JPG/en_US/10b74026205995b6882e8ffa61e023c5.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -2104,7 +2376,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/JPG/en_US/c26a3304312d05d07b164be8e029db63.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -2136,7 +2412,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_08/JPG/en_US/cd650445c1459c61b7245e365ea7208e.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -2166,7 +2446,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_09/JPG/en_US/7ae0b6dd980891f71460a7b57a3ccabf.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -2196,7 +2480,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_09/JPG/en_US/02022cad32910efd45cec7e5d0612109.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -2228,7 +2516,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_09/JPG/en_US/10963b70c301eb2dbe61cbd903bcdc7f.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -2260,7 +2552,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_09/JPG/en_US/cce16a40799a19fa763e9fc9d087b256.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -2291,7 +2587,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_06/JPG/en_US/c759f94bd63327cfbfd66a1ae143adae.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -2322,7 +2622,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_06/JPG/en_US/78b6a6b3ff1bbae9eb118ac08d94dd06.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -2353,7 +2657,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_06/JPG/en_US/9a9eecbd879940b4f4288a976307d776.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -2384,7 +2692,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_06/JPG/en_US/32ece30877117233566928bd5478ac21.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -2415,7 +2727,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_12/JPG/en_US/1f08a351a7e4505eca9647927900fae0.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -2446,7 +2762,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/JPG/en_US/4ee47d619331de589a08de4033eef4d6.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -2477,7 +2797,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/JPG/en_US/51908e6bb0d44651c6fb5052ad307eb8.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -2508,7 +2832,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_12/JPG/en_US/5152a8784f382120c19aa7f2ae72f03a.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -2539,7 +2867,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_11/JPG/en_US/288aadf281ce3f70c064e1a35edafe51.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -2570,7 +2902,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_11/JPG/en_US/479918bd81020eba0cec0f344b91e99b.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -2601,7 +2937,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_11/JPG/en_US/323313855c2e6d879ec69b51b1454c2a.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -2632,7 +2972,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_11/JPG/en_US/c67c2f31f3cc08a97923458ac88b41d0.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -2663,7 +3007,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_13/JPG/en_US/973235001e9b8c5227c0fb5649ffad4c.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -2694,7 +3042,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_13/JPG/en_US/488fff21643856ec7be0cab3d14df66f.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -2725,7 +3077,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_13/JPG/en_US/edf9e2af00919d193afa5813159df569.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -2756,7 +3112,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_13/JPG/en_US/29b48ee71666f71a706a4b4955c34051.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -2787,7 +3147,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_10/JPG/en_US/828bc430d532003de2a77e3852d83108.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -2818,7 +3182,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_10/JPG/en_US/fb9ddaf8b357408c41e04f7ffd1a4fab.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -2849,7 +3217,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_10/JPG/en_US/605b16d8c9656a941a47f88549c43ea4.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -2880,7 +3252,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_10/JPG/en_US/b4406fab7e7c4bbacf58bfe0daf35c38.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -2913,7 +3289,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_14/JPG/en_US/75ea271f7e46a0c65f617d4eb150a3cb.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -2946,7 +3326,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_14/JPG/en_US/f5bffab924eb3772f619efe68da18915.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -2979,7 +3363,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_14/JPG/en_US/c3f12d103f0a19fe5a499b6f97f557c1.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3012,7 +3400,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_14/JPG/en_US/0c5d8fbdc5c3cb09138266c27973f69d.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3043,7 +3435,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_15/JPG/en_US/e51d8b228a729648ef8d8fa0bf20a381.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3074,7 +3470,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_15/JPG/en_US/91582cbd4b929c4c56a90293a3a1c798.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3105,7 +3505,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_15/JPG/en_US/519a4ea5ad9a6a51d80d50dbc251949f.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3136,7 +3540,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_15/JPG/en_US/7c403ef6fc7d0e961370ce64f1407ec2.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3167,7 +3575,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/JPG/en_US/81c02e94940c9e0a99c7aa5b15f1feae.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3198,7 +3610,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/JPG/en_US/f41dc1b4d35c5400e6e74b31c469d666.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3229,7 +3645,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/JPG/en_US/3c5e47c15367feae05c6552b94abcc3b.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3260,7 +3680,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/JPG/en_US/5b809b941cf67619c0e61157a3cf2758.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3291,7 +3715,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_18/JPG/en_US/ef1b1accbd3e9d7274351ee3d5d19b08.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3322,7 +3750,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_18/JPG/en_US/eb8d388d8737c4dc560a13813b29e645.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3355,7 +3787,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_18/JPG/en_US/272c5163b8b05d8ab4960da82f7fdfc2.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3388,7 +3824,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_18/JPG/en_US/15aace3bf8db4a36205d4243472102f7.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3419,7 +3859,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/JPG/en_US/a64ad3a6ae55e06e5bcf7f63c30add62.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3450,7 +3894,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_17/JPG/en_US/0e9595ee9826b63f0e7d2b5e8d4489a4.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3481,7 +3929,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/JPG/en_US/bacee5c49ef861ee2b20751cfecb3c55.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3512,7 +3964,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_YZ_17/JPG/en_US/a58f5884c8ffce03ae71890511fb3064.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3540,7 +3996,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_19/JPG/en_US/9fa3d90d6b5217ff124219128ac0649c.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -3568,7 +4028,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_19/JPG/en_US/ed2f2469d98413963478d4350fae04fd.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -3596,7 +4060,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_19/JPG/en_US/895315c66eb826be60350465b79bcd0c.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -3624,7 +4092,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_19/JPG/en_US/90f9ddebbc7c7017ce8d06c75e87e902.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -3652,7 +4124,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_20/JPG/en_US/2d778a5e7c4cd7149214c670b9415ad0.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3680,7 +4156,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_20/JPG/en_US/9bc51bec19b3bc82c380bfb7265fbe96.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3708,7 +4188,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_20/JPG/en_US/14a0c646cbbcc3130ed675c404576359.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3736,7 +4220,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_20/JPG/en_US/f7babe46288fab276ccd37a65331b6ea.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3764,7 +4252,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_22/JPG/en_US/22da88373908b179dbad5228b544f524.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -3792,7 +4284,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_22/JPG/en_US/059c072121ce3f419b479bed594fa75f.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -3820,7 +4316,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_22/JPG/en_US/d4782a39e79530e6a0ef235a4f234f0d.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3848,7 +4348,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_22/JPG/en_US/0ceabb8238258124c49c65b63711ef3a.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3876,7 +4380,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_21/JPG/en_US/6aaa1809cd1641aef28d1c3a312076ba.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -3904,7 +4412,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_21/JPG/en_US/33593c25dfdea12f87d331088b1ab3a2.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -3932,7 +4444,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_21/JPG/en_US/b7cb5cf88c59017fff2f6201efb0d781.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3960,7 +4476,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_21/JPG/en_US/f26dd8fc9180f51c97b8882abfb61323.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -3988,7 +4508,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_23/JPG/en_US/40a24fac8b030a73a038d30bb29c5322.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4016,7 +4540,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_23/JPG/en_US/722ffb74d49b4c505e72768afb34aef1.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4044,7 +4572,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_23/JPG/en_US/09dff8ca682a705bff0244686bc6e3bc.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4072,7 +4604,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_23/JPG/en_US/5b8e0e0ef944b89e588f40fd5c58e5b6.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4100,7 +4636,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_24/JPG/en_US/f461575dda4bbac6623e553b5638c5da.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -4128,7 +4668,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_24/JPG/en_US/ba625a789f346a7642965e8b05b5557a.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 5,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 5
         }
     },
     {
@@ -4156,7 +4700,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_24/JPG/en_US/0124fcec933033a9fc1c0512ed53f744.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4184,7 +4732,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_24/JPG/en_US/14d90342d3721e8f95f7e8b9506786f4.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4212,7 +4764,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_26/JPG/en_US/52c3e43bc1068e9cc9fe2f52912d430d.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -4240,7 +4796,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_26/JPG/en_US/c90a0cd673dd791bdc6e26d47e09b7f5.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -4268,7 +4828,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_26/JPG/en_US/c87adba13d6cfaeaeb8aaaafa50ea914.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4296,7 +4860,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_26/JPG/en_US/02c13df853a850acb03743e70b2e8824.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4324,7 +4892,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_25/JPG/en_US/32e7429b83b72db3cf585e258f755809.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -4352,7 +4924,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_25/JPG/en_US/4c098045e42fb4ec0d11d5d19de0d519.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 5,
-            "ALT_COREKS_B_YZ_01_C": 5
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 3,
+            "ALT_COREKS_B_YZ_01_C": 5,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 3
         }
     },
     {
@@ -4380,7 +4956,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_25/JPG/en_US/161b4d3973f1d6980bc5740680617530.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4408,7 +4988,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_25/JPG/en_US/3c2aa65205e517212aa7a9772a228606.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4436,7 +5020,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_27/JPG/en_US/73e1b75e50c4eaffd8f1d48442950a68.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4464,7 +5052,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_27/JPG/en_US/98eb95d27b5234af97b53f9ac6d3d44b.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4492,7 +5084,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_27/JPG/en_US/d1023b912cd8034445195f6e54c25e6b.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4520,7 +5116,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_27/JPG/en_US/ad53a1dba2073fe034f776eec09596d3.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4548,7 +5148,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_28/JPG/en_US/80d3a985d0ba9b012110e57d55525db9.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4576,7 +5180,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_28/JPG/en_US/239aaa05fd928629ed29dce9a0bd9ff3.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 3,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 3,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4604,7 +5212,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_28/JPG/en_US/be9925e50a818418002bab7f3d2199fb.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4632,7 +5244,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_28/JPG/en_US/58b0a3589d7dc673d01f15623d44a4d2.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 5,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 5,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4660,7 +5276,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_29/JPG/en_US/12d8da7f16dbc95d65a442bccce8c151.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4688,7 +5308,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_29/JPG/en_US/6cb044d5ea696195dc3b2748e4ceff30.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4716,7 +5340,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_29/JPG/en_US/4ebad90be9e4d08c40ba8d5984be54a1.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4744,7 +5372,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_29/JPG/en_US/76c15cd2a246372c90057cbc25c37266.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 1,
-            "ALT_COREKS_B_YZ_01_C": 1
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 1,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4772,7 +5404,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_30/JPG/en_US/832e177595f0afea1e8ff60cc121c1a2.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4800,7 +5436,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_30/JPG/en_US/3ee35e1639bce31c1b9ca981f4a02c8a.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4828,7 +5468,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_30/JPG/en_US/aa6a3613d889d86a52b8b771bba37150.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     },
     {
@@ -4856,7 +5500,11 @@
         "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_30/JPG/en_US/11a340b46e4727d5f15cb37867d04f05.jpg",
         "ratings": {
             "ALT_CORE_B_YZ_01_C": 3,
-            "ALT_COREKS_B_YZ_01_C": 3
+            "ALT_CORE_B_YZ_02_C": 1,
+            "ALT_CORE_B_YZ_03_C": 1,
+            "ALT_COREKS_B_YZ_01_C": 3,
+            "ALT_COREKS_B_YZ_02_C": 1,
+            "ALT_COREKS_B_YZ_03_C": 1
         }
     }
 ]

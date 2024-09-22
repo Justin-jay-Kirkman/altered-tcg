@@ -3,8 +3,15 @@
         console.log(str.replace(/<br\s*\/?>/gi, '\n'));
     }
 
+    function nl2br(str) {
+        console.log(str.replace(/\n/g, '<br>'));
+    }
+
 
 </script>
 
-<textarea id="text-area"></textarea>
+<textarea id="text-area" cols="50" rows="10"></textarea>
 <button onclick='br2nl(document.getElementById("text-area").value)'>Remove br</button>
+<br>
+<textarea id="text-area-nl" cols="50" rows="10"></textarea>
+<button onclick='nl2br(document.getElementById("text-area-nl").value)'>Remove nl</button>
