@@ -1,4 +1,7 @@
 import uuid
+
+from django.conf import settings
+from django.contrib.auth.models import User
 from django.db import models
 from django_extensions.db.models import AutoSlugField
 from .enums import TYPES, SUB_TYPES, FACTIONS, RARITY
@@ -36,6 +39,7 @@ class CardRating(models.Model):
 
 class Deck(models.Model):
     id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
+    owner = models.ForeignKey(User, on_delete=models.CASCADE, related_name="decks", null=True)
     name = models.CharField(max_length=255)
     hero = models.CharField(max_length=255)
     cards = models.JSONField(default=list)
@@ -83,3 +87,9 @@ class Deck(models.Model):
         return self.name + " | " + str(self.normalized_rating())
 
 
+# Skip uniques for now
+class Collection(models.Model):
+    id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
+    name = models.CharField(max_length=255, default="test")
+    # user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name="collections")
+    cards = models.JSONField(default=dict)
