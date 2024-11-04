@@ -34,3 +34,4 @@ Once you are done, you can stop and remove the containers using this command.
 ```
 $ docker compose down
 ```
+To get the latest card data for import, use this link `https://docs.google.com/spreadsheets/d/15yLeYpBlzo7eyC5uQu2ZP2SmP7iK0tSOQQ1We2stPlQ/edit?usp=sharing`

@@ -14,8 +14,9 @@ DeckSchema = create_schema(Deck, fields=['name', 'hero', 'rating'], name='Deck')
 class RatingsUploadSchema(Schema):
     id: str
     faction: str
+    version: int = 0
     ratings: dict = {
-        "string": 0
+        "string": "0"
     }
 
 

@@ -82,12 +82,17 @@ def suggest_deck(request, hero_id: str):
                 deck_rating += rating.rating
         for card in cards:
             deck += "{Qty} {ID}<br>".format(Qty=cards[card]['qty'], ID=cards[card]['id'])
+        file_name = "Value_" + hero_name + "_" + str(int((deck_rating - 39) / (390-39)*100)) + ".txt"
+        f = open("cards/data/Decks/" + file_name, "w")
+        for card in cards:
+            f.write("{Qty} {ID}\n".format(Qty=cards[card]['qty'], ID=cards[card]['id']))
+        f.close()
 
         return 200, {
             "hero": hero_name,
             "deck": deck,
             "deck_rating": deck_rating,
-            "normalized_rating": int((deck_rating - 39) / (195-39)*100)
+            "normalized_rating": int((deck_rating - 39) / (390-39)*100)
         }
 
 
@@ -108,7 +113,7 @@ def suggest_deck_by_collection(request, collection_name: str, hero_id: str):
     if hero is None:
         return 404, {'message': 'Hero not found'}
     else:
-        ratings_query = CardRating.objects.filter(hero_id=hero).order_by('-rating', '-updated_at', 'card_id__rarity')
+        ratings_query = CardRating.objects.filter(hero_id=hero).order_by('-version', '-rating', 'card_id__rarity')
         ratings = list(ratings_query)
 
         cards_in_collection = collection.cards
@@ -153,7 +158,7 @@ def suggest_deck_by_collection(request, collection_name: str, hero_id: str):
                     cards_in_collection[card_id] -= 1
                 else:
                     break
-        normalized_rating = int((deck_rating - 39) / (195-39)*100)
+        normalized_rating = int((deck_rating - 39) / (390-39)*100)
         for card in cards:
             deck += "{Qty} {ID}<br>".format(Qty=cards[card]['qty'], ID=cards[card]['id'])
         file_name = collection.name + "_" + hero_name + "_" + str(normalized_rating) + ".txt"

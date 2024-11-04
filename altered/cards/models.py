@@ -30,12 +30,11 @@ class CardRating(models.Model):
     hero_id = models.ForeignKey(Card, on_delete=models.CASCADE, related_name="hero")
     rating = models.IntegerField(default=1)  # 1-5
     updated_at = models.DateTimeField(auto_now=True)
-    version = models.CharField(max_length=255, default="1")
+    version = models.IntegerField(default=1)
     slug = AutoSlugField(populate_from=['card_id', 'hero_id'])
 
     def __str__(self):
         return self.card_id.name['en'] + " | " + self.hero_id.name['en'] + " | " + str(self.rating)
-
 
 class Deck(models.Model):
     id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
@@ -49,7 +48,7 @@ class Deck(models.Model):
     slug = AutoSlugField(populate_from=['name'])
 
     def normalized_rating(self):
-        return int((self.rating - 39) / (195-39)*100)
+        return int((self.rating - 39) / (390-39)*100)
 
     def set_deck_rating(self):
         hero = Card.objects.get(id=self.hero)
@@ -59,7 +58,7 @@ class Deck(models.Model):
             try:
                 card = Card.objects.get(id=card_json["id"])
             except Card.DoesNotExist:
-                self.rating += 5
+                self.rating += 10
                 self.ratings.append({
                     "id": card_json["id"],
                     "qty": card_json["qty"],
